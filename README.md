@@ -12,7 +12,7 @@ Please cite [1] for reusing these codes and contact Morteza Banagar at mbanagar@
 
 Parts of [1] was presented at the 2021 IEEE Globecom in Madrid, Spain [2]. The repository for the codes of [2] can be found [here](https://github.com/mbanagar/TwoHop-Drone).
 
-![3D](https://github.com/stochastic-geometry/TwoHop-Drone/blob/8751ea62f0105ec532437ae46c7b748f6a9ecae3/TwoHop-Drone-Fig.png)
+![3D](https://github.com/stochastic-geometry/3DTwoHop-Drone/blob/ca89c5ab8b0cff4d543170c328aaa5702b9dea28/3D.JPG)
 
 ### References
 
