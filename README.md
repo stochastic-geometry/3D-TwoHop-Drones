@@ -10,7 +10,7 @@ This repository contains matlab codes for the simulations in [1].
 
 Please cite [1] for reusing these codes and contact Morteza Banagar at mbanagar@vt.edu if you have any questions.
 
-Parts of [1] was presented at the 2021 IEEE Globecom in Madrid, Spain [2]. The repository for the codes of [2] can be found [here](https://github.com/mbanagar/TwoHop-Drone).
+Parts of [1] was presented at the 2021 IEEE Globecom in Madrid, Spain [2]. The repository for the codes of [2] can be found [here](https://github.com/stochastic-geometry/TwoHop-Drones).
 
 ![3D](https://github.com/stochastic-geometry/3DTwoHop-Drone/blob/ca89c5ab8b0cff4d543170c328aaa5702b9dea28/3D.JPG)
 
